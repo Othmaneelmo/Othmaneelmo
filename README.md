@@ -1,8 +1,8 @@
 ## Hi, I’m Othmane 👋
 
-**Name:** Othmane
-**Pronouns:** He/Him
-**Location:** Ottawa, Canada
+* **Name:** Othmane El Moutaouakkil
+* **Pronouns:** He/Him
+* **Location:** Ottawa, Canada
 
 I’m a software developer and tinkerer.
 
