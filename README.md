@@ -16,14 +16,5 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=Othmaneelmo&color=dc143c)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="resources/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="resources/github-snake.svg">
-  <img alt="" src="resources/github-snake.svg">
-</picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-gitblock.svg">
-  <img alt="" src="profile-3d-contrib/profile-gitblock.svg">
-</picture>
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
