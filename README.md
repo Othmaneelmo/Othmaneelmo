@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 
 ![snake gif](https://github.com/Othmaneelmo/Othmaneelmo/blob/output/github-snake-dark.svg)
+
+![](./profile-3d-contrib/profile-green-animate.svg)
