@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=Othmaneelmo&color=dc143c)
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Othmaneelmo/Othmaneelmo/blob/output/github-snake-dark.svg)
